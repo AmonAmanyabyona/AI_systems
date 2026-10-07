@@ -1,7 +1,7 @@
 # Data Science Projects Portfolio
 
 Welcome to my AI systems repository! My name is Amon Amanya Byona and I am an AI enthusiast. 
-This collection includes various projects that I have completed during my master's degree in data science. 
+This collection includes various projects that I have completed during my data science journey. 
 These projects span multiple domains and reflect my journey and growth as I delve deeper into the world of data science.
 
 ## Project List (Organized in chronological order)
